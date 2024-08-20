@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L4Gc5jSMDH4=",
+  "dgSpecHash": "XNZATjWbETM=",
   "success": true,
-  "projectFilePath": "D:\\Nanosoft Global\\.net\\MIS\\MIS\\MIS.csproj",
+  "projectFilePath": "E:\\My projects\\MIS\\MIS\\MIS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Hi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

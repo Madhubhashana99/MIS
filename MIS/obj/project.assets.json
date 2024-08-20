@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Nanosoft Global\\.net\\MIS\\MIS\\MIS.csproj",
+      "projectUniqueName": "E:\\My projects\\MIS\\MIS\\MIS.csproj",
       "projectName": "MIS",
-      "projectPath": "D:\\Nanosoft Global\\.net\\MIS\\MIS\\MIS.csproj",
+      "projectPath": "E:\\My projects\\MIS\\MIS\\MIS.csproj",
       "packagesPath": "C:\\Users\\Hi\\.nuget\\packages\\",
-      "outputPath": "D:\\Nanosoft Global\\.net\\MIS\\MIS\\obj\\",
+      "outputPath": "E:\\My projects\\MIS\\MIS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hi\\AppData\\Roaming\\NuGet\\NuGet.Config",
