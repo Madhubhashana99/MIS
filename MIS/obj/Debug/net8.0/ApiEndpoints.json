@@ -1,5 +1,79 @@
 [
   {
+    "ContainingType": "MIS.Controllers.StudentController",
+    "Method": "AddStudents",
+    "RelativePath": "api/students/add-students",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MIS.DTO.StudentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MIS.Controllers.StudentController",
+    "Method": "DeleteStudentById",
+    "RelativePath": "api/students/delete-student/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MIS.Controllers.StudentController",
+    "Method": "GetStudents",
+    "RelativePath": "api/students/get-students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MIS.Controllers.StudentController",
+    "Method": "UpdateStudent",
+    "RelativePath": "api/students/update-student/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "MIS.DTO.StudentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "MIS.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

@@ -5,6 +5,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{DFF3F36A-F817-4388-9079-103D806AE3E4}|MIS\\MIS.csproj|e:\\my projects\\mis\\mis\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DFF3F36A-F817-4388-9079-103D806AE3E4}|MIS\\MIS.csproj|solutionrelative:mis\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF3F36A-F817-4388-9079-103D806AE3E4}|MIS\\MIS.csproj|e:\\my projects\\mis\\mis\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF3F36A-F817-4388-9079-103D806AE3E4}|MIS\\MIS.csproj|solutionrelative:mis\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF3F36A-F817-4388-9079-103D806AE3E4}|MIS\\MIS.csproj|e:\\my projects\\mis\\mis\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF3F36A-F817-4388-9079-103D806AE3E4}|MIS\\MIS.csproj|solutionrelative:mis\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF3F36A-F817-4388-9079-103D806AE3E4}|MIS\\MIS.csproj|e:\\my projects\\mis\\mis\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF3F36A-F817-4388-9079-103D806AE3E4}|MIS\\MIS.csproj|solutionrelative:mis\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF3F36A-F817-4388-9079-103D806AE3E4}|MIS\\MIS.csproj|e:\\my projects\\mis\\mis\\domains\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF3F36A-F817-4388-9079-103D806AE3E4}|MIS\\MIS.csproj|solutionrelative:mis\\domains\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF3F36A-F817-4388-9079-103D806AE3E4}|MIS\\MIS.csproj|e:\\my projects\\mis\\mis\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF3F36A-F817-4388-9079-103D806AE3E4}|MIS\\MIS.csproj|solutionrelative:mis\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF3F36A-F817-4388-9079-103D806AE3E4}|MIS\\MIS.csproj|e:\\my projects\\mis\\mis\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DFF3F36A-F817-4388-9079-103D806AE3E4}|MIS\\MIS.csproj|solutionrelative:mis\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFF3F36A-F817-4388-9079-103D806AE3E4}|MIS\\MIS.csproj|e:\\my projects\\mis\\mis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFF3F36A-F817-4388-9079-103D806AE3E4}|MIS\\MIS.csproj|solutionrelative:mis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,10 +52,99 @@
               "RelativeDocumentMoniker": "MIS\\Controllers\\StudentController.cs",
               "ToolTip": "E:\\My projects\\MIS\\MIS\\Controllers\\StudentController.cs",
               "RelativeToolTip": "MIS\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAIYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T11:16:33.004Z",
+              "WhenOpened": "2024-08-28T16:04:35.87Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "E:\\My projects\\MIS\\MIS\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "MIS\\Models\\StudentModel.cs",
+              "ToolTip": "E:\\My projects\\MIS\\MIS\\Models\\StudentModel.cs",
+              "RelativeToolTip": "MIS\\Models\\StudentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:15:38.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "E:\\My projects\\MIS\\MIS\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "MIS\\MapperProfile.cs",
+              "ToolTip": "E:\\My projects\\MIS\\MIS\\MapperProfile.cs",
+              "RelativeToolTip": "MIS\\MapperProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T04:11:40.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\My projects\\MIS\\MIS\\Domains\\Student.cs",
+              "RelativeDocumentMoniker": "MIS\\Domains\\Student.cs",
+              "ToolTip": "E:\\My projects\\MIS\\MIS\\Domains\\Student.cs",
+              "RelativeToolTip": "MIS\\Domains\\Student.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwB4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:04:57.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "E:\\My projects\\MIS\\MIS\\DTO\\StudentDto.cs",
+              "RelativeDocumentMoniker": "MIS\\DTO\\StudentDto.cs",
+              "ToolTip": "E:\\My projects\\MIS\\MIS\\DTO\\StudentDto.cs",
+              "RelativeToolTip": "MIS\\DTO\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:05:06.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\My projects\\MIS\\MIS\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MIS\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\My projects\\MIS\\MIS\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MIS\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:04:47.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\My projects\\MIS\\MIS\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MIS\\appsettings.Development.json",
+              "ToolTip": "E:\\My projects\\MIS\\MIS\\appsettings.Development.json",
+              "RelativeToolTip": "MIS\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T16:05:35.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\My projects\\MIS\\MIS\\Program.cs",
+              "RelativeDocumentMoniker": "MIS\\Program.cs",
+              "ToolTip": "E:\\My projects\\MIS\\MIS\\Program.cs",
+              "RelativeToolTip": "MIS\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:06:02.939Z"
             }
           ]
         }
